@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @R0HAIL-ASHRAF
-- 👀 I’m interested in Backend Developing
-- 🌱 I’m currently learning diferent programing languages like C++, Python etc. And Web Development 
-- 💞️ I’m looking to collaborate on ...
+  
+- 👀 I’m interested in Backend Developing.
+  
+- 🌱 I’m currently learning diferent programing languages like C++, Python etc. And Web Development also.
+
 - 📫 All of ypu can reach me by my linkedin profile, mentioned in profile. 
 
 - ⚡ Fun fact: I'm a freshie at Information Technology University of the Punjab. 
