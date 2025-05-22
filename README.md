@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @R0HAIL-ASHRAF<br><br>👀 I’m interested in Backend Developing(as I am PSA and DE).<br><br>🌱 I’m currently having mastery in C++.<br><br>📫 All of you can reach me by my linkedin profile, mentioned in profile.<br><br>⚡ Fun fact: I'm a freshie at Information Technology University of the Punjab.
+👋 Hi, Imma @R0HAIL-ASHRAF<br><br>👀
 
 
 ## 🌐 Socials:
